@@ -18,6 +18,9 @@ describe 'A Tic Tac Toe board' do
   #    expect board.place(token, row, column).to eq(nil)
   # end
   
+  # it 'finds where the token is at' do
+  #   expect board.token_at().to eq(nil)
+  # end
   
 
 
